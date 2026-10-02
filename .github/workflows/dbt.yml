@@ -32,10 +32,12 @@ jobs:
         run: pip install "dbt-duckdb~=1.10.0"
 
       - name: dbt build on the committed sample (seed + run + test)
-        run: dbt build --target ci --vars '{"raw_dir": "data/sample"}'
+        run: |
+          dbt build --target ci --vars '{"raw_dir": "data/sample"}'
 
       - name: dbt docs generate (static)
-        run: dbt docs generate --static --target ci --vars '{"raw_dir": "data/sample"}'
+        run: |
+          dbt docs generate --static --target ci --vars '{"raw_dir": "data/sample"}'
 
       - name: Stage docs site
         run: |
