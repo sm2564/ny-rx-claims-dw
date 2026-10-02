@@ -6,6 +6,8 @@ A dbt + DuckDB warehouse over New York State's All-Payer Database (APD) prescrip
 
 Published work (a JAMA research letter on IQVIA data and an ASPE issue brief on Medicare claims) stops at 2023. This project replicates the Medicare-vs-commercial difference-in-differences on an independent public source, adds 2024, the cross-vaccine reversal pattern, the within-Medicare Part B comparison, and a prescriber layer.
 
+Repository: https://github.com/sm2564/ny-rx-claims-dw. Live dbt docs (lineage) and figures: https://sm2564.github.io/ny-rx-claims-dw.
+
 Everything below is reproducible: `dbt build` runs 33 models and 125 tests; `analysis/readout.py` writes the 12 figures in `docs/` and `docs/headline_numbers.md`, which lists every number with the mart it came from.
 
 ---
