@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: int_vaccine_ingredient_map
+    description: APD active-ingredient names matched to the vaccine_products seed patterns, one row per ingredient.
+    columns:
+      - name: nonproprietary_name
+        tests: [unique, not_null]
+      - name: vaccine_group
+        tests: [not_null]
+  - name: int_vaccine_ndc9_map
+    description: One row per (product, NDC-9) unnested from the seed's apd_ndc9_list.
+    columns:
+      - name: ndc9
+        tests:
+          - unique
+          - not_null
+          - relationships: {to: ref('dim_drug_ndc9'), field: ndc9}

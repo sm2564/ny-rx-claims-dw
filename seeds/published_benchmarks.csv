@@ -1,0 +1,4 @@
+source,citation,design,outcome,population,treated_change_pct,control_change_pct,did_pct,pre_period,post_period,note
+JAMA 2024 research letter,"USC / University of Michigan, JAMA, May 2024 (IQVIA National Prescription Audit)",Difference-in-differences,Part D vaccine fills,Medicare Part D vs commercially insured,46,-21,,2022,2023,"as recorded in BUILD-PLAN.md v2 (2026-10-01); Part D +46%, commercial -21%"
+ASPE HP-2024-09,"HHS ASPE issue brief HP-2024-09 (Medicare claims)",Pre/post vs 2021,Shingles (Shingrix) vaccinations,Medicare Part D enrollees,42,,,2021,2023,"as recorded in BUILD-PLAN.md v2; shingles +42% vs 2021"
+ASPE HP-2024-09,"HHS ASPE issue brief HP-2024-09 (Medicare claims)",Pre/post vs 2021,Tdap vaccinations,Medicare Part D enrollees,114,,,2021,2023,"as recorded in BUILD-PLAN.md v2; Tdap +114% vs 2021"

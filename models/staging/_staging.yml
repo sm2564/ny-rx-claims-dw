@@ -1,0 +1,95 @@
+version: 2
+
+models:
+  - name: stg_apd_rx_summary
+    description: >
+      NY All-Payer Database prescription summary PUFs 2018-2023, typed and normalized. One row per
+      year x payer x active ingredient x therapeutic class. Per-claim mean/median paid columns are
+      computed over non-zero claims only and carry the _nonzero suffix; cost-sharing measures use the sums.
+      2023 percentage columns are rescaled x100 to match 2018-2022.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: year
+        tests:
+          - not_null
+          - accepted_values: {values: [2018, 2019, 2020, 2021, 2022, 2023], quote: false}
+      - name: payer_type
+        tests:
+          - not_null
+          - accepted_values: {values: ['COMMERCIAL', 'MEDICARE', 'NYS PROGRAMS']}
+      - name: nonproprietary_name
+        tests: [not_null]
+      - name: rx_count
+        tests: [not_null]
+      - name: total_paid_sum
+        tests: [not_null]
+
+  - name: stg_apd_rx_detail
+    description: >
+      NY All-Payer Database prescription detail PUFs 2018-2023 at the 9-digit NDC grain
+      (labeler + product). One row per year x payer x NDC-9. NDC rows with fewer than 11 unique members
+      are suppressed by the state into a single VARIOUS row per payer-year.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: ndc9
+        tests: [not_null]
+      - name: payer_type
+        tests:
+          - not_null
+          - accepted_values: {values: ['COMMERCIAL', 'MEDICARE', 'NYS PROGRAMS']}
+      - name: drug_category
+        tests:
+          - accepted_values: {values: ['BRAND', 'GENERIC', 'NA', 'SUPPRESSED']}
+      - name: rx_count
+        tests: [not_null]
+
+  - name: stg_ny_denominators
+    description: Population and enrollment denominators per geo (NY, US) x year 2018-2024.
+    columns:
+      - name: geo
+        tests:
+          - accepted_values: {values: ['NY', 'US']}
+      - name: pop_65_plus
+        tests: [not_null]
+      - name: partd_enrollees
+        tests: [not_null]
+
+  - name: stg_cms_partd_geo
+    description: CMS Part D Prescribers by Geography and Drug 2018-2024, typed. One row per year x geography x brand x generic.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: tot_clms
+        tests: [not_null]
+      - name: year
+        tests:
+          - accepted_values: {values: [2018, 2019, 2020, 2021, 2022, 2023, 2024], quote: false}
+
+  - name: stg_cms_phys_geo
+    description: CMS Physician & Other Practitioners by Geography and Service 2018-2024 (Part B FFS), typed.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: tot_services
+        tests: [not_null]
+
+  - name: stg_cms_partd_prescriber
+    description: CMS Part D Prescribers by Provider, NY NPIs 2018-2024, typed, with specialty bucket and NYC flag.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: npi
+        tests: [not_null]
+      - name: specialty_bucket
+        tests:
+          - accepted_values: {values: ['Pharmacist / pharmacy', 'Physician', 'NP / PA', 'Other / unknown']}
+
+  - name: stg_cms_partd_prescriber_drug
+    description: CMS Part D Prescribers by Provider and Drug, NY vaccine-brand rows 2018-2024, typed.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: tot_clms
+        tests: [not_null]

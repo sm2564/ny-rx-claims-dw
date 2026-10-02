@@ -1,0 +1,85 @@
+Rndrng_Prvdr_Geo_Lvl,Rndrng_Prvdr_Geo_Cd,Rndrng_Prvdr_Geo_Desc,HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind,Place_Of_Srvc,Tot_Rndrng_Prvdrs,Tot_Benes,Tot_Srvcs,Tot_Bene_Day_Srvcs,Avg_Sbmtd_Chrg,Avg_Mdcr_Alowd_Amt,Avg_Mdcr_Pymt_Amt,Avg_Mdcr_Stdzd_Amt
+National,,National,90630,Vaccine for influenza for injection into skin,N,O,35,87,87,87,51.512758621,18.859425287,18.859425287,18.859425287
+National,,National,90653,Vaccine for influenza for injection into muscle,Y,F,87,406,411,411,92.739124088,54.905206813,54.905206813,55.07323601
+National,,National,90653,Vaccine for influenza for injection into muscle,Y,O,51873,2808618,2826798.5,2826798,64.575638695,54.922783462,54.922783462,54.97908687
+National,,National,90656,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,F,11,45,46,46,27.859565217,19.161956522,19.161956522,19.161956522
+National,,National,90656,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,4147,29552,29768.5,29770,37.623096226,19.057815812,19.057815812,19.154669197
+National,,National,90661,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",N,O,5,13,13,13,39.230769231,20.199230769,20.199230769,20.199230769
+National,,National,90662,Vaccine for influenza for injection into muscle,Y,F,411,2022,2038,2038,78.231476938,52.521290481,52.521290481,53.116113837
+National,,National,90662,Vaccine for influenza for injection into muscle,Y,O,134187,7510366,7605448,7605420,64.160471786,52.934657285,52.934657285,53.017085824
+National,,National,90670,Pneumococcal vaccine for injection into muscle,Y,F,491,1257,1259,1259,475.68378872,191.99788721,191.99788721,201.49583002
+National,,National,90670,Pneumococcal vaccine for injection into muscle,Y,O,137229,1690194,1699655,1699653,279.52016871,205.51671824,205.51671824,206.52708541
+National,,National,90672,Vaccine for influenza for nasal administration,Y,O,148,338,340,340,50.191382353,25.719705882,25.719705882,25.827
+National,,National,90673,"Vaccine for influenza administered into muscle, preservative and antibiotic free",N,O,16,24,25,25,58.2244,36.2456,36.2456,36.2456
+National,,National,90674,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,F,56,188,188,188,44.067659574,26.147287234,26.147287234,26.596170213
+National,,National,90674,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,50550,721729,727039,727106,36.790174103,26.02773224,26.02773224,26.144314899
+National,,National,90682,Vaccine for influenza for injection into muscle,Y,F,94,385,385,385,77.425922078,49.430597403,49.430597403,53.841194805
+National,,National,90682,Vaccine for influenza for injection into muscle,Y,O,33418,788501,792725,792725,70.580644259,53.658439548,53.658439548,53.824777243
+National,,National,90685,"Vaccine for influenza for administration into muscle, 0.25 ml dosage",Y,O,181,629,631,631,38.934167987,19.644152139,19.644152139,19.869793978
+National,,National,90686,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,F,617,2408,2419,2419,49.197614717,17.552629186,17.552629186,18.203836296
+National,,National,90686,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,129687,1695494,1715996,1715993,31.290070362,18.414771846,18.414771846,18.53484747
+National,,National,90687,"Vaccine for influenza for administration into muscle, 0.25 ml dosage",Y,O,73,206,207,207,42.44942029,8.9714975845,8.9714975845,9.1531400966
+National,,National,90688,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,F,135,714,714,714,26.045686275,16.892815126,16.892815126,17.150182073
+National,,National,90688,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,38576,621684,627086,627056,33.906914044,17.28651437,17.28651437,17.395367494
+National,,National,90689,"Inactivated quadrivalent influenza vaccine for injection into muscle, 0.25 ml dosage",N,O,5,28,28,28,158.75,22.333571429,22.333571429,22.399285714
+National,,National,90714,"Vaccine for tetanus and diphtheria toxoids injection into muscle, patient 7 years or older",Y,F,19,29,30,30,35.485666667,22.385666667,15.378333333,15.378333333
+National,,National,90714,"Vaccine for tetanus and diphtheria toxoids injection into muscle, patient 7 years or older",Y,O,27613,79510,79657,79606,57.036770403,23.008414201,16.630107461,16.723506911
+National,,National,90715,"Vaccine for tetanus, diphtheria toxoids and acellular pertussis (whooping cough) for injection into muscle, patient 7 years or older",Y,F,12,18,18,18,216.81722222,31.957222222,18.975,18.975
+National,,National,90715,"Vaccine for tetanus, diphtheria toxoids and acellular pertussis (whooping cough) for injection into muscle, patient 7 years or older",Y,O,27190,70463,70591,70579,77.170630675,31.676280829,22.743213582,22.879155983
+National,,National,90732,"Vaccine for pneumococcal polysaccharide for injection beneath the skin or into muscle, patient 2 years or older",Y,F,408,921,924,924,189.84850649,100.99414502,100.99414502,105.23402597
+National,,National,90732,"Vaccine for pneumococcal polysaccharide for injection beneath the skin or into muscle, patient 2 years or older",Y,O,141035,1579502,1585219,1585212,148.08538828,107.83872293,107.83872293,108.37231124
+National,,National,90739,Vaccine for Hepatitis B adult dosage (2 dose schedule) injection into muscle,Y,F,27,67,77,77,735.92727273,127.33298701,127.33298701,127.33298701
+National,,National,90739,Vaccine for Hepatitis B adult dosage (2 dose schedule) injection into muscle,Y,O,2077,5495,7524,7523,222.29729931,124.61460792,124.61460792,125.73052233
+National,,National,90740,"Vaccine for Hepatitis B (3 dose schedule) for injection into muscle, dialysis or immunosuppressed patient",Y,O,272,694,1075,1075,257.43490233,125.42203721,125.42203721,127.41853023
+National,,National,90743,"Vaccine for Hepatitis B (2 dose schedule) for injection into muscle, adolescent patient",N,O,77,100,110,110,93.658818182,62.601454545,62.601454545,63.269818182
+National,,National,90744,"Vaccine for Hepatitis B (3 dose schedule) for injection into muscle, pediatric and adolescent patients",Y,O,116,128,144,144,67.175347222,25.818055556,25.818055556,25.818055556
+National,,National,90746,Vaccine for Hepatitis B adult dosage (3 dose schedule) injection into muscle,Y,F,129,207,263,263,141.59581749,60.220228137,60.220228137,63.47365019
+National,,National,90746,Vaccine for Hepatitis B adult dosage (3 dose schedule) injection into muscle,Y,O,24925,45942,70634,70624,119.41950505,64.050145822,64.050145822,64.574844551
+National,,National,90747,"Vaccine for Hepatitis B (4 dose schedule) for injection into muscle, dialysis or immunosuppressed patient",Y,O,183,446,693,692,252.12300144,126.08473304,126.08473304,127.19412698
+National,,National,90756,Vaccine for influenza for injection into muscle,Y,F,29,210,210,210,36.859904762,25.705095238,25.705095238,25.710142857
+National,,National,90756,Vaccine for influenza for injection into muscle,Y,O,29629,494756,498620,498622,39.098733284,25.308678754,25.308678754,25.425312322
+National,,National,G0008,Administration of influenza virus vaccine,N,F,1002,6259,6330,6330,38.089372828,15.410388626,15.410388626,16.028665087
+National,,National,G0008,Administration of influenza virus vaccine,N,O,215690,14307797,14590119.5,14590088,28.893601446,15.564052877,15.564052877,16.360236512
+National,,National,G0009,Administration of pneumococcal vaccine,N,F,523,1915,1920,1920,45.5093125,15.708859375,15.708859375,16.084390625
+National,,National,G0009,Administration of pneumococcal vaccine,N,O,154120,3033537,3063623.5,3063612,36.864698825,16.09821905,16.09821905,16.339801788
+National,,National,G0010,Administration of hepatitis b vaccine,N,F,111,181,231,231,45.898181818,16.50017316,16.50017316,16.333722944
+National,,National,G0010,Administration of hepatitis b vaccine,N,O,23782,47417,71396,71358,42.816412824,16.36598577,16.36598577,16.21368326
+National,,National,Q2034,"Influenza virus vaccine, split virus, for intramuscular use (agriflu)",N,O,9,55,55,55,40.818181818,15.257454545,15.257454545,15.257454545
+National,,National,Q2035,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (afluria)",Y,F,15,20,20,20,26.362,17.77,17.77,17.77
+National,,National,Q2035,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (afluria)",Y,O,3062,55749,56238.5,56239,35.916946576,17.841026699,17.841026699,17.86943055
+National,,National,Q2036,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (flulaval)",N,O,307,4584,4622,4622,40.541112073,16.959383384,16.959383384,16.974822588
+National,,National,Q2037,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluvirin)",N,O,184,632,634,634,29.924794953,16.162870662,16.162870662,16.162870662
+National,,National,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,F,3,20,20,20,58.5,51.414,51.414,51.414
+National,,National,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,O,1444,14092,14245,14245,43.910949807,37.45233696,37.45233696,37.474360828
+National,,National,Q2039,"Influenza virus vaccine, not otherwise specified",N,O,46,136,136,136,40.204558824,17.948161765,17.948161765,17.948161765
+State,36,New York,90653,Vaccine for influenza for injection into muscle,Y,O,3292,129982,130550.5,130552,77.894106725,56.086431534,56.086431534,56.132357823
+State,36,New York,90656,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,439,4251,4285,4285,47.631558926,19.301668611,19.301668611,19.357036173
+State,36,New York,90662,Vaccine for influenza for injection into muscle,Y,F,6,102,102,102,63.18627451,54.832254902,54.832254902,54.832254902
+State,36,New York,90662,Vaccine for influenza for injection into muscle,Y,O,8127,351748,355634,355634,74.690961382,53.437243205,53.437243205,53.512491326
+State,36,New York,90670,Pneumococcal vaccine for injection into muscle,Y,F,7,24,24,24,213.85,191.30541667,191.30541667,200.2775
+State,36,New York,90670,Pneumococcal vaccine for injection into muscle,Y,O,7419,77874,78232,78232,307.97229906,205.11008449,205.11008449,205.80070585
+State,36,New York,90674,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,3807,49548,49909,49909,46.565466549,26.623759242,26.623759242,26.703947985
+State,36,New York,90682,Vaccine for influenza for injection into muscle,Y,F,11,176,176,176,65.288522727,54.578125,54.578125,54.578125
+State,36,New York,90682,Vaccine for influenza for injection into muscle,Y,O,1777,27043,27216,27216,83.564992284,54.002801293,54.002801293,54.301751543
+State,36,New York,90686,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,F,3,13,13,13,51.384615385,18.65,18.65,18.65
+State,36,New York,90686,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,7023,86994,87665,87665,38.151908173,18.544050305,18.544050305,18.637803799
+State,36,New York,90688,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",Y,O,2578,47248,47584,47584,40.470481885,17.30922495,17.30922495,17.41504098
+State,36,New York,90714,"Vaccine for tetanus and diphtheria toxoids injection into muscle, patient 7 years or older",Y,O,1181,4596,4601,4601,93.905746577,23.036785481,17.439084982,17.526072593
+State,36,New York,90715,"Vaccine for tetanus, diphtheria toxoids and acellular pertussis (whooping cough) for injection into muscle, patient 7 years or older",Y,O,2441,7041,7057,7057,90.84869633,31.617313306,23.507299136,23.706679892
+State,36,New York,90732,"Vaccine for pneumococcal polysaccharide for injection beneath the skin or into muscle, patient 2 years or older",Y,F,7,15,15,15,114.26666667,99.754666667,99.754666667,99.754666667
+State,36,New York,90732,"Vaccine for pneumococcal polysaccharide for injection beneath the skin or into muscle, patient 2 years or older",Y,O,7938,72305,72512,72512,166.61934852,107.64334124,107.64334124,108.07241326
+State,36,New York,90739,Vaccine for Hepatitis B adult dosage (2 dose schedule) injection into muscle,Y,O,82,196,289,289,280.64782007,125.50100346,125.50100346,125.50100346
+State,36,New York,90740,"Vaccine for Hepatitis B (3 dose schedule) for injection into muscle, dialysis or immunosuppressed patient",Y,O,10,14,15,15,228.734,105.88733333,105.88733333,105.89
+State,36,New York,90746,Vaccine for Hepatitis B adult dosage (3 dose schedule) injection into muscle,Y,O,1688,2872,4509,4509,130.87514305,64.34467953,64.34467953,64.55160346
+State,36,New York,90747,"Vaccine for Hepatitis B (4 dose schedule) for injection into muscle, dialysis or immunosuppressed patient",Y,O,15,32,43,43,202.74976744,129.37395349,129.37395349,129.37651163
+State,36,New York,90756,Vaccine for influenza for injection into muscle,Y,O,2249,37862,38090.5,38091,52.372828396,25.688885943,25.688885943,25.741406912
+State,36,New York,G0008,Administration of influenza virus vaccine,N,F,23,322,323,323,27.726068111,16.051455108,16.051455108,16.398513932
+State,36,New York,G0008,Administration of influenza virus vaccine,N,O,13564,741022,753187,753186,34.950517269,17.114674058,17.114674058,16.455539394
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,F,9,36,36,36,26.055555556,16.205277778,16.205277778,16.6
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,O,8750,141676,142858,142858,45.224734492,18.115242059,18.115242059,16.437635204
+State,36,New York,G0010,Administration of hepatitis b vaccine,N,O,1543,2741,4084,4082,54.859373164,18.536789912,18.536789912,16.350372184
+State,36,New York,Q2035,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (afluria)",Y,O,395,11318,11397,11397,38.24098096,17.831976836,17.831976836,17.859205054
+State,36,New York,Q2036,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (flulaval)",N,O,168,2741,2774,2774,44.968749099,17.115699351,17.115699351,17.115699351
+State,36,New York,Q2037,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluvirin)",N,O,22,33,33,33,37.026666667,17.283939394,17.283939394,17.283939394
+State,36,New York,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,F,3,20,20,20,58.5,51.414,51.414,51.414
+State,36,New York,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,O,509,6619,6678,6678,42.64935909,36.317032046,36.317032046,36.345184187

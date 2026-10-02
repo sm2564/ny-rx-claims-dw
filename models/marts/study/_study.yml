@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: mart_study_did_replication
+    description: Design 1 panel, Shingrix members per 1,000 by year x segment (NY APD), with denominators and period flags.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: arm
+        tests:
+          - accepted_values: {values: ['treated', 'control', 'contaminated', 'broken_2023']}
+  - name: mart_study_did_estimates
+    description: Design 1 pre/post and DiD point estimates (members, members per 1,000, fills, OOP share first stage, pre-trend).
+    columns:
+      - name: measure
+        tests: [unique, not_null]
+      - name: did_pct_points
+        tests: [not_null]
+  - name: mart_study_partd_vs_partb
+    description: Design 2 long panel, Medicare vaccine volumes by year x geo x vaccine group x part with denominators.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+  - name: mart_study_partd_vs_partb_comparison
+    description: Design 2 wide panel, Shingrix vs flu and pneumococcal, remaining-pool uptake and event-study coefficients.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: shingrix_claims
+        tests: [not_null]
+      - name: flu_admin_services
+        tests: [not_null]
+  - name: mart_study_cross_vaccine_reversal
+    description: Design 3, every Part D vaccine brand by year x geo with year-over-year change and depletion class.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: claims
+        tests: [not_null]
+  - name: mart_study_tdap_brand_share
+    description: Design 4, Boostrix vs Adacel brand share by year from CMS Part D (NY, US) and NY APD (by payer).
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+  - name: mart_recon_apd_vs_cms_shingrix
+    description: NY APD Medicare Shingrix members vs CMS NY Shingrix beneficiaries by year, with ratios.
+    columns:
+      - name: year
+        tests: [unique, not_null]
+  - name: mart_study_cost_share_residuals
+    description: Non-LIS cost share per claim for Part D vaccines from 2023, flagging residuals over $1.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+
+seeds:
+  - name: published_benchmarks
+    description: Published estimates of the IRA vaccine effect, recorded for comparison in the README.

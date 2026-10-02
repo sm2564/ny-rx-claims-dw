@@ -1,0 +1,182 @@
+Rndrng_Prvdr_Geo_Lvl,Rndrng_Prvdr_Geo_Cd,Rndrng_Prvdr_Geo_Desc,HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind,Place_Of_Srvc,Tot_Rndrng_Prvdrs,Tot_Benes,Tot_Srvcs,Tot_Bene_Day_Srvcs,Avg_Sbmtd_Chrg,Avg_Mdcr_Alowd_Amt,Avg_Mdcr_Pymt_Amt,Avg_Mdcr_Stdzd_Amt
+National,,National,90653,"Influenza vaccine, inactivated",N,O,84,331,331,331,94.599063444,53.146253776,53.146253776,52.965861027
+National,,National,90656,"Influenza vaccine, trivalent, split virus, preservative-free, 0.5 ml dosage",N,O,19,23,23,23,40.056086957,19.297391304,19.297391304,19.262608696
+National,,National,90662,"Influenza vaccine split virus, preservative free",Y,F,208,1366,1375,1375,89.721549091,66.456123636,66.456123636,67.064989091
+National,,National,90662,"Influenza vaccine split virus, preservative free",Y,O,125274,7606479,7690681.9,7690679,81.314112774,67.324195721,67.324191416,67.38684457
+National,,National,90670,"Pneumococcal vaccine, 13-valent",Y,F,103,148,149,149,406.73885906,217.95208054,217.95208054,232.88409396
+National,,National,90670,"Pneumococcal vaccine, 13-valent",Y,O,53753,186007,186978,186979,372.62142338,242.44964798,242.44964798,241.75347966
+National,,National,90671,"Pneumococcal conjugate vaccine, 15 valent (pcv15), for intramuscular use",Y,F,21,35,35,35,891.54114286,241.35028571,241.35028571,241.28
+National,,National,90671,"Pneumococcal conjugate vaccine, 15 valent (pcv15), for intramuscular use",Y,O,4013,21810,21846,21846,360.74613659,238.90528289,238.90528289,239.95793097
+National,,National,90672,"Influenza vaccine, quadrivalent for nasal administration",Y,O,113,272,277,277,42.581119134,25.485523466,25.485523466,25.53801444
+National,,National,90674,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",Y,F,19,42,42,42,69.523809524,30.971904762,30.971904762,30.948095238
+National,,National,90674,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",Y,O,50313,449415,453642.5,453642,42.904679764,30.716454411,30.716453551,30.840669867
+National,,National,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,F,244,555,555,555,464.49895495,234.65834234,234.65834234,247.49745946
+National,,National,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,O,102081,1149816,1154769.5,1154804,386.92890622,274.05168014,274.05166559,274.37745022
+National,,National,90682,"Influenza vaccine, quadrivalent derived from recombinant dna",Y,F,41,154,154,154,205.3961039,59.215909091,59.215909091,65.077467532
+National,,National,90682,"Influenza vaccine, quadrivalent derived from recombinant dna",Y,O,27490,308684,312838,312837,85.422890282,65.575034522,65.575034107,65.848908348
+National,,National,90685,"Influenza vaccine, quadrivalent, preservative free, 0.25 ml dosage",Y,O,37,153,153,153,38.104901961,21.181699346,21.181699346,21.156405229
+National,,National,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,F,247,812,825,825,73.531357576,16.420484848,16.420484848,17.307284848
+National,,National,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,O,107672,814012,826973.5,826974,34.443061319,20.597414548,20.597409627,20.732275835
+National,,National,90687,"Influenza vaccine, quadrivalent, 0.25 ml dosage",Y,O,50,288,289,289,39.322629758,10.039377163,10.039377163,10.03799308
+National,,National,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,F,58,231,233,233,35.642317597,19.787725322,19.787725322,19.752017167
+National,,National,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,O,17961,209901,212289,212290,39.766397505,19.813517281,19.813479031,19.902201904
+National,,National,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,F,150,588,589,589,103.08106961,67.804363328,67.804363328,68.647011885
+National,,National,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,O,74593,4037965,4070191.5,4070180,83.071082563,68.410426028,68.410422126,68.446045664
+National,,National,90714,Diphtheria and tetanus vaccine (7 years or older),Y,F,17,32,32,32,101.94375,27.889375,20.7984375,20.6953125
+National,,National,90714,Diphtheria and tetanus vaccine (7 years or older),Y,O,22779,59466,59563,59551,57.633391535,27.716001545,19.665126337,19.644742877
+National,,National,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,F,24,27,27,27,119.19222222,36.194074074,26.267407407,26.072592593
+National,,National,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,O,27054,64746,64827,64809,81.333948046,35.892374782,25.259702593,25.279968994
+National,,National,90732,"Pneumococcal vaccine, 23-valent",Y,F,167,315,316,316,220.44272152,111.59028481,111.59028481,118.55550633
+National,,National,90732,"Pneumococcal vaccine, 23-valent",Y,O,111289,613815,615251.5,615250,189.52704486,128.40970727,128.40967396,127.96208718
+National,,National,90739,"Hepatitis b vaccine, adult dosage",Y,F,29,85,121,121,271.09917355,144.69958678,144.69958678,143.15247934
+National,,National,90739,"Hepatitis b vaccine, adult dosage",Y,O,4438,8901,12276.5,12275,244.72217652,141.18279966,141.18101902,141.95343868
+National,,National,90740,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage",Y,O,202,445,698,698,218.94992837,137.20878223,137.20878223,136.76839542
+National,,National,90743,"Hepatitis b vaccine, adolescent dosage",Y,O,23,25,26,26,112.55461538,61.203846154,61.203846154,60.876153846
+National,,National,90744,"Hepatitis b vaccine, pediatric or adolescent dosage (3 dose schedule)",Y,O,45,51,57,57,74.937192982,27.707368421,27.707368421,27.581754386
+National,,National,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,F,60,110,139,139,127.32985612,64.095539568,64.095539568,66.472302158
+National,,National,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,O,15540,25162,37472,37466,135.17902594,68.263952551,68.263585611,68.485109682
+National,,National,90747,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage (4 dose schedule)",Y,O,107,191,300,300,281.07243333,134.09743333,134.09743333,134.69096667
+National,,National,90756,"Influenza vaccine, quadrivalent derived from cell cultures",Y,F,9,178,181,181,39.165690608,29.943480663,29.943480663,29.934033149
+National,,National,90756,"Influenza vaccine, quadrivalent derived from cell cultures",Y,O,12592,176988,178779,178773,47.871213509,29.465095006,29.465095006,29.582830925
+National,,National,90759,"Vaccine for hepatitis b (3 dose schedule) for injection into muscle, 10 mcg dosage",Y,O,15,40,44,44,97.281818182,71.497272727,71.158409091,71.212727273
+National,,National,91300,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted, for intramuscular use",N,F,43,159,159,159,6.2344025157,0.01,0.01,0.01
+National,,National,91300,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted, for intramuscular use",N,O,3301,43871,45835,45834,9.0181313407,0.0201793389,0.0201793389,0.0199775281
+National,,National,91301,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage, for intramuscular use",N,F,20,114,119,119,0.3483193277,0.01,0.01,0.01
+National,,National,91301,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage, for intramuscular use",N,O,3426,38757,40675,40672,12.043514198,0.0149157959,0.0149157959,0.0148196681
+National,,National,91303,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, dna, spike protein, adenovirus type 26 (ad26) vector, preservative free, 5x1010 viral particles/0.5ml dosage, for intramuscular use",N,O,458,7166,7317,7317,2.5220172202,0.01,0.01,0.01
+National,,National,91304,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage, for intramuscular use",N,O,76,256,298,298,5.8047651007,0.01,0.01,0.01
+National,,National,91305,Sarscov2 vac 30 mcg trs-sucr,N,F,26,73,74,74,1.227027027,0.01,0.01,0.01
+National,,National,91305,Sarscov2 vac 30 mcg trs-sucr,N,O,3036,52420,53259,53259,4.7390437297,0.0100170863,0.0100170863,0.0100189639
+National,,National,91306,Sarscov2 vac 50mcg/0.25ml im,N,F,19,114,115,115,4.0611304348,0.01,0.01,0.01
+National,,National,91306,Sarscov2 vac 50mcg/0.25ml im,N,O,3766,76396,77992,77990,2.9094987948,0.0099987178,0.0099987178,0.0100014104
+National,,National,91307,Sarscov2 vac 10 mcg trs-sucr,N,O,26,73,76,76,0.5361842105,0.01,0.01,0.01
+National,,National,91309,Sarscov2 vac 50mcg/0.5ml im,N,O,360,7562,7599,7596,6.4753612317,0.01,0.01,0.01
+National,,National,91311,Sarscov2 vac 25mcg/0.25ml im,N,O,7,16,16,16,96.25625,0.01,0.01,0.01
+National,,National,91312,Coronavirus vaccine 13,N,F,29,182,183,183,0.5913661202,0.01,0.01,0.01
+National,,National,91312,Coronavirus vaccine 13,N,O,5785,124313,124490,124462,7.7691792915,0.0099959033,0.0099959033,0.0099991967
+National,,National,91313,Coronavirus vaccine 14,N,F,31,231,231,231,18.909177489,0.01,0.01,0.01
+National,,National,91313,Coronavirus vaccine 14,N,O,3864,96086,96404,96219,11.404964421,0.009997303,0.009997303,0.0100004149
+National,,National,91314,Coronavirus vaccine 15,N,O,22,107,109,108,1.3941284404,0.01,0.01,0.01
+National,,National,91315,Coronavirus vaccine 16,N,O,21,76,76,76,24.441315789,0.01,0.01,0.01
+National,,National,G0008,Administration of influenza virus vaccine,N,F,613,3886,3931,3931,42.831238871,23.931063343,23.931063343,14.61017044
+National,,National,G0008,Administration of influenza virus vaccine,N,O,201691,13226442,13471844.5,13471813,35.172774792,25.739396601,25.739396601,16.466826243
+National,,National,G0009,Administration of pneumococcal vaccine,N,F,378,1387,1472,1472,38.682595109,16.550570652,16.550570652,10.080597826
+National,,National,G0009,Administration of pneumococcal vaccine,N,O,136802,1603707,1614693,1614689,45.909438766,28.129276166,28.129276166,16.320202367
+National,,National,G0010,Administration of hepatitis b vaccine,N,F,84,158,193,193,45.896683938,27.448704663,27.448704663,16.284559585
+National,,National,G0010,Administration of hepatitis b vaccine,N,O,17548,31807,46548,46527,49.649782805,28.97263384,28.97263384,16.184232835
+National,,National,0001A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; first dose",N,F,38,296,296,296,57.443918919,38.484459459,38.484459459,39.2
+National,,National,0001A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; first dose",N,O,14838,56302,56757,56757,59.725202706,39.708255017,39.708255017,39.163530842
+National,,National,0002A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; second dose",N,F,31,57,57,57,82.231578947,38.802631579,38.802631579,39.2
+National,,National,0002A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; second dose",N,O,15396,43724,43892,43889,64.252195389,39.305816322,39.305816322,39.075750023
+National,,National,0003A,Adm sarscov2 30mcg/0.3ml 3rd,N,F,57,387,388,388,71.601597938,37.613453608,37.613453608,39.2
+National,,National,0003A,Adm sarscov2 30mcg/0.3ml 3rd,N,O,18631,128956,131070.9,131077,71.523936816,39.493323766,39.493323766,39.174582077
+National,,National,0004A,Adm sarscov2 30mcg/0.3ml bst,N,F,121,1047,1095,1095,75.025031963,39.642465753,39.642465753,38.663150685
+National,,National,0004A,Adm sarscov2 30mcg/0.3ml bst,N,O,42052,592509,600654.6,600678,68.490280837,39.564545348,39.564545348,39.184391978
+National,,National,0011A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; first dose",N,F,49,193,196,196,47.819438776,36.801989796,36.801989796,38.600153061
+National,,National,0011A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; first dose",N,O,19961,91340,92468,92468,55.810040771,38.815613726,38.815613726,39.175409655
+National,,National,0012A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; second dose",N,F,38,68,69,69,56.510144928,36.741449275,36.741449275,38.632028986
+National,,National,0012A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; second dose",N,O,23131,90475,91315,91313,63.268567596,38.996306631,38.996306631,39.162134699
+National,,National,0013A,Adm sarscov2 100mcg/0.5ml3rd,N,F,39,140,141,141,64.545531915,37.995390071,37.995390071,39.2
+National,,National,0013A,Adm sarscov2 100mcg/0.5ml3rd,N,O,26149,304812,308955,308955,60.930782185,39.233792332,39.233792332,39.168351863
+National,,National,0031A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, dna, spike protein, adenovirus type 26 (ad26) vector, preservative free, 5x1010 viral particles/0.5ml dosage, single dose",N,O,6308,24800,25431,25431,56.31597853,39.005600645,39.005600645,39.148793992
+National,,National,0034A,Adm sarscov2 vac ad26 .5ml b,N,F,3,12,12,12,71.814166667,42.990833333,42.990833333,39.2
+National,,National,0034A,Adm sarscov2 vac ad26 .5ml b,N,O,5027,14498,14591.2,14593,58.435324031,39.408947859,39.408947859,38.994412386
+National,,National,0041A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage; first dose",N,O,682,1543,1629,1629,58.021276857,37.249674647,37.249674647,37.272179251
+National,,National,0042A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage; second dose",N,O,464,914,931,931,56.439699248,37.907153598,37.907153598,37.902706767
+National,,National,0044A,Fee covid-19 vac 5 res,N,O,245,537,539,539,54.23987013,36.670983302,36.670983302,36.669703154
+National,,National,0051A,Adm sarscv2 30mcg trs-sucr 1,N,F,17,22,23,23,80.434782609,37.952173913,37.952173913,39.2
+National,,National,0051A,Adm sarscv2 30mcg trs-sucr 1,N,O,23420,679704,683025,683025,52.638699652,39.155010066,39.155010066,39.187124453
+National,,National,0052A,Adm sarscv2 30mcg trs-sucr 2,N,F,10,16,16,16,82.5625,38.480625,38.480625,39.2
+National,,National,0052A,Adm sarscv2 30mcg trs-sucr 2,N,O,17546,64348,64463,64462,77.719910026,39.870393094,39.870393094,39.161977569
+National,,National,0053A,Adm sarscv2 30mcg trs-sucr 3,N,F,22,77,77,77,88.804935065,38.375454545,38.375454545,39.2
+National,,National,0053A,Adm sarscv2 30mcg trs-sucr 3,N,O,21151,171915,172286.2,172288,67.27618248,39.933046117,39.933046117,39.15365601
+National,,National,0054A,Adm sarscv2 30mcg trs-sucr b,N,F,108,791,797,797,75.42531995,38.132961104,38.132961104,39.2
+National,,National,0054A,Adm sarscv2 30mcg trs-sucr b,N,O,46993,2431580,2447226.1,2447208,71.636794316,39.936415087,39.936415087,39.159808264
+National,,National,0064A,Adm sarscov2 50mcg/0.25mlbst,N,F,157,1827,1863,1863,62.218271605,38.8771927,38.8771927,38.695136876
+National,,National,0064A,Adm sarscov2 50mcg/0.25mlbst,N,O,49129,3765928,3829252.5,3829248,62.32134923,39.750347973,39.750347973,39.191416905
+National,,National,0071A,Adm sarscv2 10mcg trs-sucr 1,N,O,67,221,224,224,67.038348214,40.253660714,40.253660714,39.2
+National,,National,0072A,Adm sarscv2 10mcg trs-sucr 2,N,O,66,76,77,77,66.682207792,38.559220779,38.559220779,39.2
+National,,National,0073A,Adm sarscv2 10mcg trs-sucr 3,N,O,46,94,94,94,62.715531915,39.622978723,39.622978723,39.2
+National,,National,0074A,Adm sarscv2 10mcg trs-sucr b,N,O,90,218,218,218,62.953073394,35.83766055,35.83766055,38.023715596
+National,,National,0081A,Adm sarscv2 3mcg trs-sucr 1,N,O,12,19,19,19,80.577894737,38.415789474,38.415789474,39.2
+National,,National,0083A,Adm sarscv2 3mcg trs-sucr 3,N,O,11,14,14,14,77.855714286,36.982857143,36.982857143,39.2
+National,,National,0091A,Adm sarscov2 50 mcg/.5 ml1st,N,O,21,108,108,108,41.944351852,36.238055556,36.238055556,39.2
+National,,National,0093A,Adm sarscov2 50 mcg/.5 ml3rd,N,O,51,90,90,90,55.973555556,34.735111111,34.735111111,39.2
+National,,National,0094A,Adm sarscov2 50 mcg/.5 mlbst,N,F,7,15,15,15,40.577333333,37.414,37.414,39.197333333
+National,,National,0094A,Adm sarscov2 50 mcg/.5 mlbst,N,O,2272,38343,38693.2,38660,57.394694158,38.252224422,38.252224422,38.934940506
+National,,National,0112A,Adm sarscov2 25mcg/0.25ml2nd,N,O,9,16,16,16,63.8125,37.416875,37.416875,39.2
+National,,National,0113A,Adm sarscov2 25mcg/0.25ml3rd,N,O,5,18,18,18,32.777777778,24.607777778,24.607777778,39.2
+National,,National,0124A,Fee covid-19 vac 13 res,N,F,152,1238,1240,1239,74.91391129,38.543427419,38.543427419,38.883951613
+National,,National,0124A,Fee covid-19 vac 13 res,N,O,58692,4600025,4608266.8,4607976,67.43370673,39.192881228,39.192881228,39.138063858
+National,,National,0134A,Fee covid-19 vac 14 res,N,F,123,1407,1411,1411,64.952402551,38.983614458,38.983614458,39.144450744
+National,,National,0134A,Fee covid-19 vac 14 res,N,O,41480,3348479,3353781.1,3353702,65.950942717,39.143674144,39.143674144,39.118012245
+National,,National,0144A,Fee covid-19 vac 15 res,N,O,100,490,488.3,491,49.579152161,34.849969281,34.849969281,34.925865247
+National,,National,0154A,Fee covid-19 vac 16 res,N,O,204,417,417,417,68.481247002,38.21882494,38.21882494,38.219568345
+National,,National,M0201,Covid-19 vaccine administration inside a patient's home; reported only once per individual home per date of service when only covid-19 vaccine administration is performed at the patient's home,N,O,1337,69938,82879,82874,56.660391776,34.799639233,34.799639233,34.674196479
+National,,National,Q2035,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (afluria)",N,O,18,100,101,101,33.366237624,16.553267327,16.553267327,16.510693069
+National,,National,Q2036,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (flulaval)",N,O,12,13,13,13,33.538461538,9.7376923077,9.7376923077,9.7376923077
+National,,National,Q2037,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluvirin)",N,O,8,11,11,11,40.636363636,20.764545455,20.764545455,20.658181818
+National,,National,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,O,47,138,138,138,29.255797101,17.005724638,17.005724638,16.975652174
+State,36,New York,0001A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; first dose",N,O,792,2645,2654,2654,59.906122833,42.109521477,42.109521477,39.155700829
+State,36,New York,0002A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted; second dose",N,O,866,2298,2310,2310,69.006225108,43.256320346,43.256320346,39.153584416
+State,36,New York,0003A,Adm sarscov2 30mcg/0.3ml 3rd,N,O,941,7494,7703.1,7704,84.621123963,43.302521063,43.302521063,39.2
+State,36,New York,0004A,Adm sarscov2 30mcg/0.3ml bst,N,O,2082,32172,33226,33223,74.820446036,43.876357973,43.876357973,39.177942274
+State,36,New York,0011A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; first dose",N,O,1233,5436,5540,5540,57.570119134,42.043814079,42.043814079,39.150481949
+State,36,New York,0012A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; second dose",N,O,1395,4738,4769,4769,62.397311805,42.616003355,42.616003355,39.147513105
+State,36,New York,0013A,Adm sarscov2 100mcg/0.5ml3rd,N,O,1686,19003,19272.1,19273,66.693603188,43.084328122,43.084328122,39.157304082
+State,36,New York,0031A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, dna, spike protein, adenovirus type 26 (ad26) vector, preservative free, 5x1010 viral particles/0.5ml dosage, single dose",N,O,382,1206,1257,1257,63.3949642,43.550389817,43.550389817,39.047136038
+State,36,New York,0034A,Adm sarscov2 vac ad26 .5ml b,N,O,446,1226,1235,1235,59.52065587,42.284388664,42.284388664,38.56617004
+State,36,New York,0041A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage; first dose",N,O,29,63,70,70,57.905857143,42.314857143,42.314857143,42.319
+State,36,New York,0042A,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage; second dose",N,O,20,35,35,35,52.601714286,40.161142857,40.161142857,40.164
+State,36,New York,0044A,Fee covid-19 vac 5 res,N,O,15,34,34,34,66.820588235,45.277941176,45.277941176,45.282647059
+State,36,New York,0051A,Adm sarscv2 30mcg trs-sucr 1,N,O,959,5197,5219,5219,56.892228396,42.454903238,42.454903238,39.186395861
+State,36,New York,0052A,Adm sarscv2 30mcg trs-sucr 2,N,O,1050,3603,3615,3615,67.887966805,42.988788382,42.988788382,39.158517289
+State,36,New York,0053A,Adm sarscv2 30mcg trs-sucr 3,N,O,1122,9440,9465,9465,60.745987322,43.307958796,43.307958796,39.187892235
+State,36,New York,0054A,Adm sarscv2 30mcg trs-sucr b,N,F,1,39,39,39,40,38.11,38.11,39.2
+State,36,New York,0054A,Adm sarscv2 30mcg trs-sucr b,N,O,2100,157457,159031,159031,63.459351322,43.55003427,43.55003427,39.190838642
+State,36,New York,0064A,Adm sarscov2 50mcg/0.25mlbst,N,F,1,84,84,84,40,38.11,38.11,39.2
+State,36,New York,0064A,Adm sarscov2 50mcg/0.25mlbst,N,O,2748,202416,206681,206668,65.126725485,43.294010238,43.294010238,39.182881881
+State,36,New York,0094A,Adm sarscov2 50 mcg/.5 mlbst,N,O,129,1680,1702,1700,64.536439483,42.736809636,42.736809636,39.945481786
+State,36,New York,0124A,Fee covid-19 vac 13 res,N,F,4,80,80,80,45.4,37.89475,37.89475,39.2
+State,36,New York,0124A,Fee covid-19 vac 13 res,N,O,2719,243069,243464,243463,66.262203529,42.830194033,42.830194033,39.149883515
+State,36,New York,0134A,Fee covid-19 vac 14 res,N,F,3,109,109,109,50.697247706,37.78412844,37.78412844,39.2
+State,36,New York,0134A,Fee covid-19 vac 14 res,N,O,2148,173334,173527.4,173529,70.051847777,42.549478699,42.549478699,39.038975171
+State,36,New York,0144A,Fee covid-19 vac 15 res,N,O,12,23,24,24,89.375,43.770833333,43.770833333,43.77375
+State,36,New York,0154A,Fee covid-19 vac 16 res,N,O,7,45,45,45,50.265777778,44.320444444,44.320444444,44.327333333
+State,36,New York,90662,"Influenza vaccine split virus, preservative free",Y,F,9,79,79,79,73.948607595,68.123797468,68.123797468,68.107341772
+State,36,New York,90662,"Influenza vaccine split virus, preservative free",Y,O,8000,375757,378743,378743,91.876937079,67.620609674,67.620608856,67.742087827
+State,36,New York,90670,"Pneumococcal vaccine, 13-valent",Y,O,3144,10264,10304,10304,427.58081231,242.38071623,242.38071623,241.32261355
+State,36,New York,90671,"Pneumococcal conjugate vaccine, 15 valent (pcv15), for intramuscular use",Y,O,277,1431,1436,1436,451.12233287,236.89556407,236.89556407,238.38029944
+State,36,New York,90674,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",Y,O,3571,32306,32516,32516,49.129715832,31.068813815,31.068813815,31.148726473
+State,36,New York,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,O,5057,45422,45579,45579,400.38584151,274.36314246,274.36314246,274.84945413
+State,36,New York,90682,"Influenza vaccine, quadrivalent derived from recombinant dna",Y,O,1518,12969,13134,13134,89.395698949,66.570665448,66.570665448,67.157552155
+State,36,New York,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,F,9,23,23,23,49.963043478,11.875652174,11.875652174,12.709565217
+State,36,New York,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,O,5867,45028,45550,45549,42.421804391,20.839263227,20.839232272,20.954444786
+State,36,New York,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,F,5,11,11,11,25.541818182,20.07,20.07,20.07
+State,36,New York,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,O,1684,22470,22657,22657,48.711673214,19.911259213,19.911259213,19.997544688
+State,36,New York,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,F,4,162,162,162,118.08641975,70.25,70.25,70.25
+State,36,New York,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,O,4431,210029,211257,211257,87.548665086,69.120385407,69.120381715,69.165328818
+State,36,New York,90714,Diphtheria and tetanus vaccine (7 years or older),Y,O,952,2735,2744,2744,59.837547376,27.843312682,20.998502187,20.939376822
+State,36,New York,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,O,2386,6269,6278,6275,79.327612297,35.960925454,26.320750239,26.341683657
+State,36,New York,90732,"Pneumococcal vaccine, 23-valent",Y,O,6200,33595,33687,33687,210.38128566,128.98160537,128.98139074,128.56994954
+State,36,New York,90739,"Hepatitis b vaccine, adult dosage",Y,O,157,269,399,399,302.81300752,143.76944862,143.73385965,143.73536341
+State,36,New York,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,O,1104,1655,2561,2561,144.55370949,68.472534166,68.472534166,68.397973448
+State,36,New York,90756,"Influenza vaccine, quadrivalent derived from cell cultures",Y,O,1293,19963,20137,20137,60.624894969,29.597303968,29.597303968,29.659632517
+State,36,New York,91300,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 30 mcg/0.3ml dosage, diluent reconstituted, for intramuscular use",N,O,187,1858,1979,1979,23.906109146,0.01,0.01,0.01
+State,36,New York,91301,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage, for intramuscular use",N,O,368,3495,3724,3724,29.592478518,0.01,0.01,0.01
+State,36,New York,91303,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, dna, spike protein, adenovirus type 26 (ad26) vector, preservative free, 5x1010 viral particles/0.5ml dosage, for intramuscular use",N,O,73,189,191,191,19.562251309,0.01,0.01,0.01
+State,36,New York,91305,Sarscov2 vac 30 mcg trs-sucr,N,F,1,39,39,39,2.3171794872,0.01,0.01,0.01
+State,36,New York,91305,Sarscov2 vac 30 mcg trs-sucr,N,O,105,2327,2358,2358,9.9147243427,0.01,0.01,0.01
+State,36,New York,91306,Sarscov2 vac 50mcg/0.25ml im,N,F,1,84,84,84,3.7591666667,0.01,0.01,0.01
+State,36,New York,91306,Sarscov2 vac 50mcg/0.25ml im,N,O,257,3584,3648,3648,3.7250054825,0.0099972588,0.0099972588,0.01
+State,36,New York,91309,Sarscov2 vac 50mcg/0.5ml im,N,O,47,275,275,275,14.582690909,0.01,0.01,0.01
+State,36,New York,91312,Coronavirus vaccine 13,N,O,232,5220,5226,5226,15.781438959,0.0099980865,0.0099980865,0.01
+State,36,New York,91313,Coronavirus vaccine 14,N,F,1,97,97,97,45,0.01,0.01,0.01
+State,36,New York,91313,Coronavirus vaccine 14,N,O,316,8089,8097,8096,31.20510436,0.01,0.01,0.01
+State,36,New York,91314,Coronavirus vaccine 15,N,O,4,31,33,32,3.34,0.01,0.01,0.01
+State,36,New York,G0008,Administration of influenza virus vaccine,N,F,24,279,279,279,35.482580645,28.681505376,28.681505376,15.194982079
+State,36,New York,G0008,Administration of influenza virus vaccine,N,O,12844,704734,714750,714750,41.334268304,28.051023589,28.051023589,16.502099475
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,F,7,19,19,19,50.105263158,32.883157895,32.883157895,16.62
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,O,7544,73869,74428,74426,56.930291288,30.916678804,30.916678804,16.325656608
+State,36,New York,G0010,Administration of hepatitis b vaccine,N,O,1086,1794,2737,2736,61.444957983,31.584161491,31.584161491,16.270654001
+State,36,New York,M0201,Covid-19 vaccine administration inside a patient's home; reported only once per individual home per date of service when only covid-19 vaccine administration is performed at the patient's home,N,O,85,4340,5125,5125,53.241121951,36.23921561,36.23921561,34.776505366

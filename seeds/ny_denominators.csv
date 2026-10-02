@@ -1,0 +1,183 @@
+geo,year,measure,value,source,note
+NY,2018,medicare_benes_65_plus,3054869,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2019,medicare_benes_65_plus,3135368,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2020,medicare_benes_65_plus,3192292,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2021,medicare_benes_65_plus,3241814,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2022,medicare_benes_65_plus,3314773,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2023,medicare_benes_65_plus,3401379,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2024,medicare_benes_65_plus,3498055,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+NY,2018,medicare_ma_benes,1438985,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2019,medicare_ma_benes,1511057,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2020,medicare_ma_benes,1602984,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2021,medicare_ma_benes,1709370,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2022,medicare_ma_benes,1813624,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2023,medicare_ma_benes,1923680,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2024,medicare_ma_benes,2041281,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2018,medicare_total_benes,3559136,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2019,medicare_total_benes,3629579,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2020,medicare_total_benes,3672489,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2021,medicare_total_benes,3705546,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2022,medicare_total_benes,3761501,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2023,medicare_total_benes,3832616,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2024,medicare_total_benes,3914782,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2018,partd_enrollees,2766258,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2019,partd_enrollees,2840655,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2020,partd_enrollees,2905927,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2021,partd_enrollees,2965370,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2022,partd_enrollees,3038298,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2023,partd_enrollees,3119673,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2024,partd_enrollees,3235216,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+NY,2018,partd_lis,1004056,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2019,partd_lis,1030553,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2020,partd_lis,1039400,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2021,partd_lis,1052708,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2022,partd_lis,1104070,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2023,partd_lis,1173919,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2024,partd_lis,1246163,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+NY,2018,partd_mapd,1301854,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2019,partd_mapd,1373742,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2020,partd_mapd,1473135,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2021,partd_mapd,1582482,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2022,partd_mapd,1685423,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2023,partd_mapd,1807239,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2024,partd_mapd,1914847,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2018,partd_no_lis,1762203,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2019,partd_no_lis,1810103,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2020,partd_no_lis,1866527,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2021,partd_no_lis,1912663,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2022,partd_no_lis,1934229,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2023,partd_no_lis,1945753,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2024,partd_no_lis,1989054,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2018,partd_pdp,1464405,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2019,partd_pdp,1466913,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2020,partd_pdp,1432792,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2021,partd_pdp,1382887,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2022,partd_pdp,1352875,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2023,partd_pdp,1312434,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2024,partd_pdp,1320369,"CMS Medicare Monthly Enrollment, MONTH=Year",
+NY,2018,pop_45_64,5143496,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2019,pop_45_64,5068949,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2020,pop_45_64,5252178,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2021,pop_45_64,5145555,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2022,pop_45_64,5046309,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2023,pop_45_64,4981259,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2024,pop_45_64,4932159,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2018,pop_50_plus,7130827,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2019,pop_50_plus,7174041,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2020,pop_50_plus,7410677,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2021,pop_50_plus,7438057,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2022,pop_50_plus,7443291,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2023,pop_50_plus,7479311,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2024,pop_50_plus,7526974,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2018,pop_60_plus,4459945,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2019,pop_60_plus,4550034,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2020,pop_60_plus,4691224,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2021,pop_60_plus,4776781,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2022,pop_60_plus,4852559,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2023,pop_60_plus,4952639,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2024,pop_60_plus,5062006,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2018,pop_65_plus,3224727,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2019,pop_65_plus,3301115,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2020,pop_65_plus,3376464,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2021,pop_65_plus,3459021,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2022,pop_65_plus,3541155,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2023,pop_65_plus,3644454,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2024,pop_65_plus,3754552,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2018,pop_total,19519158,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2019,pop_total,19438191,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+NY,2020,pop_total,20085037,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2021,pop_total,19827350,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2022,pop_total,19683786,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2023,pop_total,19718061,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+NY,2024,pop_total,19847942,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2018,medicare_benes_65_plus,51303346,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2019,medicare_benes_65_plus,52990853,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2020,medicare_benes_65_plus,54531005,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2021,medicare_benes_65_plus,55850450,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2022,medicare_benes_65_plus,57355997,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2023,medicare_benes_65_plus,59034938,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2024,medicare_benes_65_plus,60780045,"CMS Medicare Monthly Enrollment, MONTH=Year",sum of AGE_65_TO_69 .. AGE_GT_94
+US,2018,medicare_ma_benes,21324800,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2019,medicare_ma_benes,22937498,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2020,medicare_ma_benes,25063922,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2021,medicare_ma_benes,27536246,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2022,medicare_ma_benes,29829632,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2023,medicare_ma_benes,32142166,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2024,medicare_ma_benes,34081269,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2018,medicare_total_benes,59989252,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2019,medicare_total_benes,61513836,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2020,medicare_total_benes,62839280,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2021,medicare_total_benes,63891683,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2022,medicare_total_benes,65100546,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2023,medicare_total_benes,66509869,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2024,medicare_total_benes,67995116,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2018,partd_enrollees,44249461,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2019,partd_enrollees,45827091,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2020,partd_enrollees,47413121,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2021,partd_enrollees,48818849,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2022,partd_enrollees,50305097,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2023,partd_enrollees,51903545,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2024,partd_enrollees,54375198,"CMS Medicare Monthly Enrollment, MONTH=Year",PDP + MA-PD enrollees
+US,2018,partd_lis,12884374,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2019,partd_lis,13059699,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2020,partd_lis,13138731,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2021,partd_lis,13143431,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2022,partd_lis,13567524,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2023,partd_lis,14184328,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2024,partd_lis,14457747,"CMS Medicare Monthly Enrollment, MONTH=Year",deemed + full + partial LIS
+US,2018,partd_mapd,18685516,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2019,partd_mapd,20243954,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2020,partd_mapd,22241173,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2021,partd_mapd,24654113,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2022,partd_mapd,26900277,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2023,partd_mapd,29383733,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2024,partd_mapd,31244073,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2018,partd_no_lis,31365087,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2019,partd_no_lis,32767391,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2020,partd_no_lis,34274390,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2021,partd_no_lis,35675418,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2022,partd_no_lis,36737573,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2023,partd_no_lis,37719217,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2024,partd_no_lis,39917452,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2018,partd_pdp,25563945,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2019,partd_pdp,25583137,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2020,partd_pdp,25171949,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2021,partd_pdp,24164736,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2022,partd_pdp,23404820,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2023,partd_pdp,22519812,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2024,partd_pdp,23131125,"CMS Medicare Monthly Enrollment, MONTH=Year",
+US,2018,pop_45_64,83728331,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2019,pop_45_64,83228939,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2020,pop_45_64,84115861,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2021,pop_45_64,83446852,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2022,pop_45_64,82890592,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2023,pop_45_64,82546455,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2024,pop_45_64,82402499,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2018,pop_50_plus,115410441,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2019,pop_50_plus,116918177,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2020,pop_50_plus,118284352,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2021,pop_50_plus,119577304,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2022,pop_50_plus,120721876,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2023,pop_50_plus,121993170,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2024,pop_50_plus,123315245,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2018,pop_60_plus,72657380,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2019,pop_60_plus,74596456,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2020,pop_60_plus,75486304,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2021,pop_60_plus,77113175,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2022,pop_60_plus,78770840,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2023,pop_60_plus,80612142,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2024,pop_60_plus,82481289,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2018,pop_65_plus,52354605,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2019,pop_65_plus,54036735,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2020,pop_65_plus,54459571,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2021,pop_65_plus,55892264,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2022,pop_65_plus,57505037,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2023,pop_65_plus,59326707,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2024,pop_65_plus,61179918,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2018,pop_total,325651278,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2019,pop_total,327143032,"Census PEP vintage 2020, SC-EST2020-AGESEX-CIV","civilian population, July 1 estimate"
+US,2020,pop_total,330463045,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2021,pop_total,330969774,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2022,pop_total,332929829,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2023,pop_total,335738465,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"
+US,2024,pop_total,339058370,"Census PEP vintage 2024, sc-est2024-agesex-civ","civilian population, July 1 estimate"

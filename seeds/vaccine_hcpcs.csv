@@ -1,0 +1,101 @@
+hcpcs_cd,vaccine_group,kind,notes
+90630,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90653,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90654,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90656,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90657,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90658,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90660,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90661,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90662,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90672,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90673,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90674,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90682,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90685,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90686,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90687,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90688,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90689,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90694,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+90756,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2034,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2035,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2036,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2037,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2038,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+Q2039,influenza,product,"Influenza vaccine product code; code mix shifts with formulation (quadrivalent 2018-2023, trivalent from the 2024-25 season)"
+G0008,influenza,admin,Administration of influenza virus vaccine (one admin per shot; the cleanest annual count)
+90670,pneumococcal,product,PCV13
+90671,pneumococcal,product,PCV15
+90677,pneumococcal,product,PCV20
+90684,pneumococcal,product,PCV21
+90732,pneumococcal,product,PPSV23
+G0009,pneumococcal,admin,Administration of pneumococcal vaccine
+90739,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90740,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90743,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90744,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90746,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90747,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+90759,hep_b_partb,product,Hepatitis B vaccine under Part B (medium/high-risk beneficiaries)
+G0010,hep_b_partb,admin,Administration of hepatitis B vaccine
+90715,tdap_partb,product,Tdap billed under Part B (injury-related use only); report-only comparator
+90714,td_partb,product,Td billed under Part B (injury-related use only); report-only comparator
+91300,covid,product,COVID-19 vaccine product code (report only)
+91301,covid,product,COVID-19 vaccine product code (report only)
+91303,covid,product,COVID-19 vaccine product code (report only)
+91304,covid,product,COVID-19 vaccine product code (report only)
+91305,covid,product,COVID-19 vaccine product code (report only)
+91306,covid,product,COVID-19 vaccine product code (report only)
+91307,covid,product,COVID-19 vaccine product code (report only)
+91309,covid,product,COVID-19 vaccine product code (report only)
+91311,covid,product,COVID-19 vaccine product code (report only)
+91312,covid,product,COVID-19 vaccine product code (report only)
+91313,covid,product,COVID-19 vaccine product code (report only)
+91314,covid,product,COVID-19 vaccine product code (report only)
+91315,covid,product,COVID-19 vaccine product code (report only)
+91316,covid,product,COVID-19 vaccine product code (report only)
+91317,covid,product,COVID-19 vaccine product code (report only)
+91318,covid,product,COVID-19 vaccine product code (report only)
+91319,covid,product,COVID-19 vaccine product code (report only)
+91320,covid,product,COVID-19 vaccine product code (report only)
+91321,covid,product,COVID-19 vaccine product code (report only)
+91322,covid,product,COVID-19 vaccine product code (report only)
+0001A,covid,admin,COVID-19 vaccine administration code (report only)
+0002A,covid,admin,COVID-19 vaccine administration code (report only)
+0003A,covid,admin,COVID-19 vaccine administration code (report only)
+0004A,covid,admin,COVID-19 vaccine administration code (report only)
+0011A,covid,admin,COVID-19 vaccine administration code (report only)
+0012A,covid,admin,COVID-19 vaccine administration code (report only)
+0013A,covid,admin,COVID-19 vaccine administration code (report only)
+0031A,covid,admin,COVID-19 vaccine administration code (report only)
+0034A,covid,admin,COVID-19 vaccine administration code (report only)
+0041A,covid,admin,COVID-19 vaccine administration code (report only)
+0042A,covid,admin,COVID-19 vaccine administration code (report only)
+0044A,covid,admin,COVID-19 vaccine administration code (report only)
+0051A,covid,admin,COVID-19 vaccine administration code (report only)
+0052A,covid,admin,COVID-19 vaccine administration code (report only)
+0053A,covid,admin,COVID-19 vaccine administration code (report only)
+0054A,covid,admin,COVID-19 vaccine administration code (report only)
+0064A,covid,admin,COVID-19 vaccine administration code (report only)
+0071A,covid,admin,COVID-19 vaccine administration code (report only)
+0072A,covid,admin,COVID-19 vaccine administration code (report only)
+0073A,covid,admin,COVID-19 vaccine administration code (report only)
+0074A,covid,admin,COVID-19 vaccine administration code (report only)
+0081A,covid,admin,COVID-19 vaccine administration code (report only)
+0083A,covid,admin,COVID-19 vaccine administration code (report only)
+0091A,covid,admin,COVID-19 vaccine administration code (report only)
+0093A,covid,admin,COVID-19 vaccine administration code (report only)
+0094A,covid,admin,COVID-19 vaccine administration code (report only)
+0112A,covid,admin,COVID-19 vaccine administration code (report only)
+0113A,covid,admin,COVID-19 vaccine administration code (report only)
+0121A,covid,admin,COVID-19 vaccine administration code (report only)
+0124A,covid,admin,COVID-19 vaccine administration code (report only)
+0134A,covid,admin,COVID-19 vaccine administration code (report only)
+0144A,covid,admin,COVID-19 vaccine administration code (report only)
+0154A,covid,admin,COVID-19 vaccine administration code (report only)
+0173A,covid,admin,COVID-19 vaccine administration code (report only)
+0174A,covid,admin,COVID-19 vaccine administration code (report only)
+90480,covid,admin,COVID-19 vaccine administration code (report only)
+M0201,covid,admin,COVID-19 vaccine administration code (report only)

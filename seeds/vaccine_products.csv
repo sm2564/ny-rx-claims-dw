@@ -1,0 +1,40 @@
+product,vaccine_group,part,manufacturer,apd_name_pattern,apd_ndc9_list,cms_partd_brand_name,schedule,eligible_age_min,ira_zero_cost_from,ira_zero_cost_expected,notes
+Shingrix,shingles,D,GSK,^ZOSTER VACCINE RECOMBINANT ADJUVANTED$,581600819|581600823,Shingrix,series,50,2023-01-01,Y,2-dose series; ACIP routine at 50+ (2018) and immunocompromised 19+ (2022)
+Zostavax,shingles,D,Merck,^ZOSTER VACCINE LIVE$,000064963,Zostavax,once,60,2023-01-01,N,live zoster vaccine; US sales discontinued 2020-11; residual claims through 2022
+Arexvy,rsv,D,GSK,^RSV PRE-FUSION F3 PROTEIN \(RSVPREF3\) VAC RECOMB ADJUVANTED$,581600848,Arexvy,once,60,2023-01-01,Y,"approved 2023-05; ACIP shared clinical decision 60+ (2023-06), narrowed to routine 75+ and at-risk 60-74 (2024-06)"
+Abrysvo,rsv,D,Pfizer,^RSV PRE-FUSION F A&B PROTEIN VACCINE RECOMBINANT$,000690344,Abrysvo,once,60,2023-01-01,Y,approved 2023-05; same ACIP history as Arexvy; also maternal use (32-36 wk)
+mResvia,rsv,D,Moderna,,,Mresvia,once,60,2023-01-01,Y,approved 2024-05; not in APD 2018-2023 (post-period)
+Boostrix,tdap,D,GSK,^TETANUS TOXOID-DIPHTHERIA-ACELLULAR PERTUSSIS ADSORB \(TDAP\)$,581600842,Boostrix Tdap,10yr,10,2023-01-01,Y,APD summary pools Boostrix and Adacel under one ingredient; brand split only in detail by NDC-9
+Adacel,tdap,D,Sanofi Pasteur,^TETANUS TOXOID-DIPHTHERIA-ACELLULAR PERTUSSIS ADSORB \(TDAP\)$,492810400,Adacel Tdap,10yr,10,2023-01-01,Y,labeled 10-64; Boostrix has no upper age limit
+Tenivac,td,D,Sanofi Pasteur,^TETANUS-DIPHTHERIA TOXOIDS \(TD\)$,492810215,Tenivac,10yr,7,2023-01-01,Y,
+Tdvax,td,D,Grifols,^TETANUS-DIPHTHERIA TOXOIDS \(TD\)$,135330131,Tdvax,10yr,7,2023-01-01,Y,
+Havrix,hep_a,D,GSK,^HEPATITIS A VACCINE$,581600825|581600826,Havrix,series,1,2023-01-01,N,"Hep A: ACIP recommends for risk groups and anyone seeking protection; a residual non-LIS cost share ($0.06-$1.11 per claim) persists in 2023-2024, consistent with off-recommendation use"
+Vaqta,hep_a,D,Merck,^HEPATITIS A VACCINE$,000064096|000064831|000064841,Vaqta,series,1,2023-01-01,N,"Hep A: ACIP recommends for risk groups and anyone seeking protection; a residual non-LIS cost share ($0.06-$1.11 per claim) persists in 2023-2024, consistent with off-recommendation use"
+Engerix-B,hep_b,D,GSK,^HEPATITIS B VACCINE \(RECOMB\)$,581600820|581600821|581600862,Engerix-B Adult,series,0,2023-01-01,Y,ACIP universal adult 19-59 (2022); 60+ at-risk or seeking protection
+Recombivax HB,hep_b,D,Merck,^HEPATITIS B VACCINE \(RECOMB\)$,000064094|000064992|000064995,Recombivax Hb,series,0,2023-01-01,Y,
+Heplisav-B,hep_b,D,Dynavax,^HEPATITIS B VACCINE RECOMBINANT ADJUVANTED$,435280003,Heplisav-B,series,18,2023-01-01,Y,
+PreHevbrio,hep_b,D,VBI,^HEPATITIS B VACCINE 3-ANTIGEN RECOMBINANT$,750520001,Prehevbrio,series,18,2023-01-01,Y,discontinued 2024
+Twinrix,hep_ab,D,GSK,^HEPATITIS A \(INACTIVATED\)-HEPATITIS B \(RECOMBINANT\) VACCINES$,581600815,Twinrix,series,18,2023-01-01,Y,
+Gardasil 9,hpv,D,Merck,^HUMAN PAPILLOMAVIRUS \(HPV\) 9-VALENT RECOMBINANT VACCINE$,000064119|000064121,Gardasil 9,series,9,2023-01-01,N,"ACIP routine through 26; shared clinical decision 27-45; not recommended 46+, so Medicare use is largely off-recommendation and cost sharing remains"
+Menveo,mening_acwy,D,GSK,"^MENINGOCOCCAL \(A,C,Y&W-135\) OLIGOSACCHARIDE CONJUGATE VAC$",581600827|581600955,Menveo A-C-Y-W-135-Dip,series,2,2023-01-01,Y,adults: at-risk only
+MenQuadfi,mening_acwy,D,Sanofi Pasteur,"^MENINGOCOCCAL \(A,C,Y&W-135\) POLYSACCH TETANUS CONJ VACCINE$",492810590,Menquadfi,series,2,2023-01-01,Y,
+Menactra,mening_acwy,D,Sanofi Pasteur,"^MENINGOCOCCAL \(A,C,Y&W-135\) POLYSACCH DIPHTH CONJ VACCINE$",492810589,Menactra,series,1,2023-01-01,Y,discontinued 2022
+Bexsero,mening_b,D,GSK,^MENINGOCOCCAL VAC GROUP B \(RECOMBANT OMV ADJUVANTED\)$,581600976,Bexsero,series,10,2023-01-01,Y,
+Trumenba,mening_b,D,Pfizer,^MENINGOCOCCAL GROUP B VACCINE \(RECOMBINANT\)$,000050100,Trumenba,series,10,2023-01-01,Y,
+Penbraya,mening_abcwy,D,Pfizer,,,Penbraya,series,10,2023-01-01,Y,approved 2023-10; not in APD
+Typhim Vi,typhoid,D,Sanofi Pasteur,^TYPHOID VI POLYSACCHARIDE VACCINE$,492810790,Typhim Vi,once,2,2023-01-01,Y,travel vaccine; ACIP-recommended for travelers so IRA $0 applies
+Vivotif,typhoid,D,Bavarian Nordic,^TYPHOID VACCINE$,694010000,,once,6,2023-01-01,Y,oral; absent from the CMS Part D geography files 2018-2024 (no brand row)
+Varivax,varicella,D,Merck,^VARICELLA VIRUS VACCINE LIVE$,000064826|000064827,Varivax Vaccine,series,1,2023-01-01,Y,
+M-M-R II,mmr,D,Merck,"^MEASLES, MUMPS & RUBELLA VIRUS VACCINES$",000064681,M-M-R Ii Vaccine,series,1,2023-01-01,Y,
+Priorix,mmr,D,GSK,"^MEASLES, MUMPS & RUBELLA VIRUS VACCINES$",581600824,Priorix,series,1,2023-01-01,Y,shares the APD ingredient name with M-M-R II
+YF-Vax,yellow_fever,D,Sanofi Pasteur,^YELLOW FEVER VACCINE$,492810915,Yf-Vax,once,1,2023-01-01,Y,travel
+Stamaril,yellow_fever,D,Sanofi Pasteur,^YELLOW FEVER VACCINE$,492810913,Stamaril,once,1,2023-01-01,Y,travel; expanded-access product used during the YF-Vax shortage
+Ixiaro,japanese_encephalitis,D,Valneva,^JAPANESE ENCEPHALITIS VACCINE INACTIVATED ADSORBED$,425150002,Ixiaro,series,0,2023-01-01,Y,travel
+Imovax Rabies,rabies,D,Sanofi Pasteur,,,Imovax Rabies Vaccine,series,0,2023-01-01,Y,pre-exposure only under Part D; post-exposure is Part B; not in APD
+RabAvert,rabies,D,Bavarian Nordic,"^RABIES VACCINE, PCEC$",581600964,Rabavert,series,0,2023-01-01,Y,
+Influenza vaccines (all brands),influenza,B,various,^INFLUENZA VIRUS VAC,,,annual,0,,,Part B in Medicare (always $0); in the APD these are pharmacy claims for commercial and Medicaid members; all influenza ingredient names pooled
+Pneumovax 23,pneumococcal,B,Merck,^PNEUMOCOCCAL VAC POLYVALENT$,000064837|000064943,,once,2,,,Part B in Medicare (always $0)
+Prevnar 13,pneumococcal,B,Pfizer,^PNEUMOCOCCAL 13-VALENT CONJUGATE VACCINE$,000051971,,once,0,,,Part B in Medicare
+Prevnar 20,pneumococcal,B,Pfizer,^PNEUMOCOCCAL 20-VALENT CONJUGATE VACCINE$,000052000,,once,0,,,approved 2021-06 (adults); ACIP 2021-10; Part B in Medicare
+Vaxneuvance,pneumococcal,B,Merck,^PNEUMOCOCCAL 15-VALENT CONJUGATE VACCINE$,000064329,,once,0,,,approved 2021-07; Part B in Medicare
+COVID-19 vaccines (all brands),covid,B,various,^COVID-19,,,seasonal,0,,,report only; Part B in Medicare; all COVID-19 ingredient names pooled

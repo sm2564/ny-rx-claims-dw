@@ -1,0 +1,50 @@
+name: 'ny_rx_claims_dw'
+version: '1.0.0'
+config-version: 2
+
+profile: 'ny_rx_claims_dw'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analysis_dbt"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+vars:
+  # Root of the raw files. CI points this at data/sample.
+  raw_dir: "data/raw"
+
+models:
+  ny_rx_claims_dw:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts
+
+seeds:
+  ny_rx_claims_dw:
+    +schema: raw
+    vaccine_products:
+      +column_types:
+        apd_ndc9_list: varchar
+        apd_name_pattern: varchar
+        cms_partd_brand_name: varchar
+        eligible_age_min: integer
+        ira_zero_cost_from: date
+        ira_zero_cost_expected: varchar
+    vaccine_hcpcs:
+      +column_types:
+        hcpcs_cd: varchar
+    ny_denominators:
+      +column_types:
+        geo: varchar
+        year: integer
+        measure: varchar
+        value: bigint

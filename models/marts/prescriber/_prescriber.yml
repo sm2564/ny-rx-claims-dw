@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: mart_vaccine_prescriber
+    description: NY prescriber x vaccine product x year (CMS Part D), with practice profile.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: product
+        tests:
+          - relationships: {to: ref('vaccine_products'), field: product}
+      - name: tot_clms
+        tests: [not_null]
+  - name: mart_prescriber_deciles
+    description: Shingrix prescriber deciles per year with share of claims (decile 1 = top tenth).
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+  - name: mart_specialty_cut
+    description: Vaccine claims by specialty bucket per year x vaccine group.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+  - name: mart_nyc_dose_response
+    description: NYC Shingrix prescriber panel (NPI x year 2018-2024) with 2022 non-LIS share as treatment intensity.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: nonlis_share_2022
+        tests: [not_null]
+  - name: mart_prescriber_attrition
+    description: Decomposition of year-over-year Shingrix claim change into continuing, exited and entered NPIs.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+  - name: mart_recon_cms_prescriber_vs_geo
+    description: Coverage of prescriber-level vaccine rows vs the NY geography total per brand x year.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]

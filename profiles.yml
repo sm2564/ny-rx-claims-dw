@@ -1,0 +1,11 @@
+ny_rx_claims_dw:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "ny_rx_claims.duckdb"
+      threads: 4
+    ci:
+      type: duckdb
+      path: "ci_sample.duckdb"
+      threads: 4

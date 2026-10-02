@@ -1,0 +1,101 @@
+version: 2
+
+models:
+  - name: dim_payer
+    description: The three APD payer segments with program definitions and their role in the policy study.
+    columns:
+      - name: payer_type
+        tests: [unique, not_null]
+
+  - name: dim_drug_ndc9
+    description: One row per NDC-9 across all detail years, latest attributes, flagged when it is a vaccine in the seed.
+    columns:
+      - name: ndc9
+        tests: [unique, not_null]
+      - name: labeler_name
+        tests: [not_null]
+
+  - name: dim_ingredient
+    description: One row per active ingredient in the summary files, with vaccine group when it is a vaccine.
+    columns:
+      - name: nonproprietary_name
+        tests: [unique, not_null]
+
+  - name: mart_payer_market
+    description: Market size per year x payer segment (Rx, spend, member-paid share).
+    columns:
+      - name: year
+        tests: [not_null]
+      - name: payer_type
+        tests:
+          - not_null
+          - relationships: {to: ref('dim_payer'), field: payer_type}
+      - name: member_paid_share
+        tests: [not_null]
+
+  - name: mart_class_by_payer
+    description: Therapeutic class x payer x year with payer share of class and class share of payer.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+
+  - name: mart_brand_generic_by_payer
+    description: Brand vs generic Rx and spend shares per year x payer from the NDC-9 detail file.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+
+  - name: mart_labeler_commercial
+    description: Labelers ranked by commercial spend per year.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: spend_rank
+        tests: [not_null]
+
+  - name: mart_vaccine_by_payer_year
+    description: Vaccine ingredients per year x payer (summary grain) with fills, members, OOP share and age-band estimates.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: vaccine_group
+        tests: [not_null]
+      - name: oop_share
+        tests: [not_null]
+
+  - name: mart_vaccine_brand_by_payer_year
+    description: Vaccine brands per year x payer from the NDC-9 detail file.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+
+  - name: mart_recon_apd_detail_vs_summary
+    description: Detail-to-summary reconciliation per year x payer x ingredient, with status.
+    columns:
+      - name: row_key
+        tests: [unique, not_null]
+      - name: recon_status
+        tests:
+          - accepted_values: {values: ['reconciles', 'detail low', 'detail high', 'no detail rows']}
+
+seeds:
+  - name: vaccine_products
+    description: Vaccine brands with APD ingredient-name patterns, NDC-9 lists, CMS Part D brand names and schedule attributes.
+    columns:
+      - name: product
+        tests: [unique, not_null]
+      - name: vaccine_group
+        tests: [not_null]
+      - name: part
+        tests:
+          - accepted_values: {values: ['D', 'B']}
+  - name: vaccine_hcpcs
+    description: Part B vaccine HCPCS codes (product and administration) by vaccine group.
+    columns:
+      - name: hcpcs_cd
+        tests: [unique, not_null]
+  - name: ny_denominators
+    description: Population (Census PEP) and Medicare / Part D enrollment (CMS) denominators for NY and US, 2018-2024.
+    columns:
+      - name: value
+        tests: [not_null]

@@ -1,0 +1,108 @@
+Rndrng_Prvdr_Geo_Lvl,Rndrng_Prvdr_Geo_Cd,Rndrng_Prvdr_Geo_Desc,HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind,Place_Of_Srvc,Tot_Rndrng_Prvdrs,Tot_Benes,Tot_Srvcs,Tot_Bene_Day_Srvcs,Avg_Sbmtd_Chrg,Avg_Mdcr_Alowd_Amt,Avg_Mdcr_Pymt_Amt,Avg_Mdcr_Stdzd_Amt
+National,,National,90480,Admn sarscov2 vacc 1 dose,N,F,174,2302,2524,2523,60.010962758,41.902004754,41.902004754,42.543141838
+National,,National,90480,Admn sarscov2 vacc 1 dose,N,O,89288,7290646,8438585,8435930,50.468598891,38.040308319,38.040308319,40.384117328
+National,,National,90653,"Influenza vaccine, inactivated",Y,F,120,615,615,615,134.03944715,79.850504065,79.850504065,79.986260163
+National,,National,90653,"Influenza vaccine, inactivated",Y,O,68981,3577564,3579837.5,3579850,98.301137462,81.311734804,81.311733421,81.393190951
+National,,National,90656,"Influenza vaccine, trivalent, split virus, preservative-free, 0.5 ml dosage",Y,F,218,422,422,422,263.79473934,19.697582938,19.697582938,21.225545024
+National,,National,90656,"Influenza vaccine, trivalent, split virus, preservative-free, 0.5 ml dosage",Y,O,85071,481317,481999,481998,38.085554265,21.520232905,21.520214337,21.709418028
+National,,National,90657,"Influenza vaccine, trivalent, 0.25 ml dosage",Y,O,17,122,123,123,46.398780488,10.622926829,10.622926829,10.711788618
+National,,National,90658,"Influenza vaccine, trivalent, 0.5 ml dosage",Y,F,31,112,112,112,36.409732143,18.170267857,18.170267857,18.170267857
+National,,National,90658,"Influenza vaccine, trivalent, 0.5 ml dosage",Y,O,8199,93969,94173,94179,45.040958874,21.176041116,21.176041116,21.28777707
+National,,National,90660,"Influenza vaccine, trivalent for nasal administration",Y,O,60,115,115,115,69.85573913,27.243043478,27.243043478,27.243043478
+National,,National,90661,"Influenza vaccine, trivalent derived from cell cultures",Y,F,21,169,169,169,61.59739645,35.893195266,35.893195266,35.893195266
+National,,National,90661,"Influenza vaccine, trivalent derived from cell cultures",Y,O,43605,316263,316678.5,316680,51.189316483,35.485208847,35.485208847,35.686754421
+National,,National,90662,"Influenza vaccine split virus, preservative free",Y,F,297,1989,1994,1994,134.50320963,73.978981946,73.978981946,76.722673019
+National,,National,90662,"Influenza vaccine split virus, preservative free",Y,O,119599,6597226,6666930,6666895,98.070804307,80.745874541,80.745874484,80.865812322
+National,,National,90670,"Pneumococcal vaccine, 13-valent",Y,F,12,24,24,24,511.56875,252.83,252.83,252.83
+National,,National,90670,"Pneumococcal vaccine, 13-valent",Y,O,3934,9739,9852,9852,388.91861043,243.91480715,243.91480715,245.43501421
+National,,National,90671,"Pneumococcal conjugate vaccine, 15 valent (pcv15), for intramuscular use",Y,O,2540,11899,11945,11945,405.71239096,245.05835412,245.05835412,247.33136877
+National,,National,90672,"Influenza vaccine, quadrivalent for nasal administration",Y,O,15,18,18,18,55.382777778,25.104444444,25.104444444,25.135555556
+National,,National,90673,"Influenza vaccine, trivalent derived from recombinant dna",Y,F,33,363,363,363,102.53719008,76.591019284,76.591019284,80.095096419
+National,,National,90673,"Influenza vaccine, trivalent derived from recombinant dna",Y,O,19252,257208,257338,257337,90.065588564,76.138269047,76.138269047,76.418979319
+National,,National,90674,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",Y,O,11193,21678,21706,21705,47.881657606,32.756066525,32.756066525,33.05223072
+National,,National,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,F,346,875,875,875,474.14721143,258.62001143,258.62001143,274.87316571
+National,,National,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,O,125115,1622735,1631693.5,1631697,443.35311958,287.30747993,287.30747137,288.4942903
+National,,National,90682,"Influenza vaccine, quadrivalent derived from recombinant dna",Y,O,1598,4026,4026,4026,82.718204173,63.678845007,63.678845007,63.983686041
+National,,National,90684,Pcv21 vaccine im,Y,O,6398,33255,33269,33269,343.20536325,319.19423127,319.18437524,319.38074484
+National,,National,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,F,43,67,67,67,30.376268657,15.593731343,15.593731343,16.342238806
+National,,National,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,O,27690,61207,61281,61286,37.676824138,21.417239601,21.417239601,21.671199067
+National,,National,90687,"Influenza vaccine, quadrivalent, 0.25 ml dosage",Y,O,6,16,16,16,69.675,9.590625,9.590625,10.243125
+National,,National,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,O,3766,10338,10373,10373,42.979360841,20.111909766,20.111909766,20.314269739
+National,,National,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,F,20,24,24,24,163.59333333,72.327916667,72.327916667,73.86125
+National,,National,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,O,40569,163432,163553,163553,96.262420805,74.467627436,74.467627436,74.628597947
+National,,National,90714,Diphtheria and tetanus vaccine (7 years or older),Y,F,8,17,17,17,103,26.125294118,20.815882353,20.815882353
+National,,National,90714,Diphtheria and tetanus vaccine (7 years or older),Y,O,19856,50075,50152.5,50144,64.918912716,27.834259509,19.837722347,19.953478291
+National,,National,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,F,48,69,69,69,141.52072464,36.907391304,27.191594203,27.191594203
+National,,National,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,O,36499,89376,89496.5,89477,87.913238283,37.477859805,26.631460225,26.925491388
+National,,National,90732,"Pneumococcal vaccine, 23-valent",Y,F,36,42,42,42,211.04357143,115.85785714,115.85785714,119.03571429
+National,,National,90732,"Pneumococcal vaccine, 23-valent",Y,O,24538,81138,81373.5,81373,196.75468881,128.29410889,128.29401476,128.90845693
+National,,National,90739,"Hepatitis b vaccine (hepb), cpg-adjuvanted, adult dosage, 2 dose or 4 dose schedule, for intramuscular use",Y,F,29,54,71,71,292.74197183,156.37169014,156.37169014,158.74211268
+National,,National,90739,"Hepatitis b vaccine (hepb), cpg-adjuvanted, adult dosage, 2 dose or 4 dose schedule, for intramuscular use",Y,O,7167,13770,18928,18921,297.08473478,153.92049503,153.92049503,156.01723954
+National,,National,90740,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage",Y,O,163,381,636,636,250.53515723,142.23611635,142.23611635,142.74971698
+National,,National,90743,"Hepatitis b vaccine, adolescent dosage",Y,O,38,47,58,58,102.69155172,68.733793103,68.733793103,70.029482759
+National,,National,90744,"Hepatitis b vaccine, pediatric or adolescent dosage (3 dose schedule)",Y,O,46,47,54,54,86.94037037,29.697962963,29.697962963,29.732407407
+National,,National,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,F,48,77,92,92,156.50065217,65.22173913,65.22173913,68.28173913
+National,,National,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,O,12515,19450,28731,28725,147.46081236,67.757918973,67.757374613,68.319229056
+National,,National,90747,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage (4 dose schedule)",Y,O,83,116,187,187,305.96213904,134.29588235,134.29588235,134.32037433
+National,,National,90756,"Influenza vaccine, quadrivalent derived from cell cultures",Y,O,1898,5487,5516,5516,52.426711385,31.113415518,31.113415518,31.320993474
+National,,National,90759,"Vaccine for hepatitis b (3 dose schedule) for injection into muscle, 10 mcg dosage",Y,O,585,983,1417,1417,119.96669019,71.992900494,71.992900494,72.290388144
+National,,National,91304,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage, for intramuscular use",Y,O,14108,120515,123591,123589,167.95882783,156.59233917,156.59233917,156.60768681
+National,,National,91318,Sarscov2 vac 3mcg trs-suc im,Y,O,88,339,340,340,117.22147059,60.815029412,60.815029412,60.939352941
+National,,National,91319,Sarscv2 vac 10mcg trs-suc im,Y,O,47,116,117,117,177.6117094,84.785128205,84.785128205,84.80017094
+National,,National,91320,Sarscv2 vac 30mcg trs-suc im,Y,F,85,1658,1808,1808,181.23833518,136.4083573,136.4083573,136.91693031
+National,,National,91320,Sarscv2 vac 30mcg trs-suc im,Y,O,60061,4133869,4596387,4596085,164.40833759,147.11783729,147.11783724,147.20065285
+National,,National,91321,Sarscov2 vac 25 mcg/.25ml im,Y,F,6,19,19,19,149.77894737,143,143,143
+National,,National,91321,Sarscov2 vac 25 mcg/.25ml im,Y,O,161,623,630,630,223.46238095,138.34373016,138.34373016,138.87550794
+National,,National,91322,Sarscov2 vac 50 mcg/0.5ml im,Y,F,104,757,785,785,233.51575796,148.55664968,148.55664968,150.45884076
+National,,National,91322,Sarscov2 vac 50 mcg/0.5ml im,Y,O,51560,3344215,3748357,3747926,171.7990276,153.8297997,153.8297997,153.90255441
+National,,National,G0008,Administration of influenza virus vaccine,N,F,592,3937,3966,3966,48.358146747,29.745456379,29.745456379,31.88904942
+National,,National,G0008,Administration of influenza virus vaccine,N,O,188529,11396697,11612643.5,11612629,40.769683375,29.09670442,29.09670442,31.888381907
+National,,National,G0009,Administration of pneumococcal vaccine,N,F,322,830,832,832,54.159507212,29.950721154,29.950721154,31.805084135
+National,,National,G0009,Administration of pneumococcal vaccine,N,O,129920,1718141,1729941.5,1729913,49.086421078,29.962165073,29.962165073,31.883276025
+National,,National,G0010,Administration of hepatitis b vaccine,N,F,76,104,122,122,57.175983607,29.629836066,29.629836066,31.92
+National,,National,G0010,Administration of hepatitis b vaccine,N,O,18078,32005,46449,46440,56.365538117,31.594098474,31.594098474,31.894093091
+National,,National,M0201,"Administration of pneumococcal, influenza, hepatitis b, and/or covid-19 vaccine inside a patient's home; reported only once per individual home per date of service when such vaccine administration(s) are performed at the patient's home",N,O,1579,52095,60618,60611,82.186332937,37.951980435,37.951980435,37.77667508
+National,,National,Q2035,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (afluria)",N,O,12,111,111,111,36.108108108,16.242792793,16.242792793,16.517837838
+National,,National,Q2037,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluvirin)",N,O,16,16,16,16,27.1875,17.185625,17.185625,17.185625
+National,,National,Q2038,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (fluzone)",N,O,34,282,282,282,32.053191489,16.549042553,16.549042553,16.549042553
+State,36,New York,90480,Admn sarscov2 vacc 1 dose,N,F,6,256,263,263,101.27376426,44.709163498,44.709163498,42.56
+State,36,New York,90480,Admn sarscov2 vacc 1 dose,N,O,4318,377469,429429,429403,55.20777749,41.017423975,41.017423975,41.832296724
+State,36,New York,90653,"Influenza vaccine, inactivated",Y,F,7,176,176,176,178.76954545,81.82,81.82,81.82
+State,36,New York,90653,"Influenza vaccine, inactivated",Y,O,4699,224536,224576,224576,107.11214796,81.430000312,81.430000312,81.593843064
+State,36,New York,90656,"Influenza vaccine, trivalent, split virus, preservative-free, 0.5 ml dosage",Y,O,4633,29714,29721,29721,45.191985128,21.718760136,21.718760136,21.848312977
+State,36,New York,90658,"Influenza vaccine, trivalent, 0.5 ml dosage",Y,O,1012,14292,14292,14292,48.246696753,21.234101595,21.234101595,21.300540862
+State,36,New York,90660,"Influenza vaccine, trivalent for nasal administration",Y,O,1,35,35,35,75,28.29,28.29,28.29
+State,36,New York,90661,"Influenza vaccine, trivalent derived from cell cultures",Y,O,3304,26935,26936,26936,55.793061702,35.666504306,35.666504306,35.874342887
+State,36,New York,90662,"Influenza vaccine split virus, preservative free",Y,O,7007,315113,317369,317369,110.82351247,81.096257322,81.096257259,81.227292521
+State,36,New York,90670,"Pneumococcal vaccine, 13-valent",Y,O,376,997,1001,1001,503.71343656,237.27908092,237.27908092,238.86033966
+State,36,New York,90671,"Pneumococcal conjugate vaccine, 15 valent (pcv15), for intramuscular use",Y,O,202,901,904,904,497.7877323,245.17070796,245.17070796,247.27815265
+State,36,New York,90673,"Influenza vaccine, trivalent derived from recombinant dna",Y,O,1076,9464,9464,9464,106.97442308,77.796382079,77.796382079,78.277241124
+State,36,New York,90674,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",Y,O,865,1480,1481,1481,56.879304524,33.071363943,33.071363943,33.325584065
+State,36,New York,90677,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",Y,O,6630,82147,82643,82643,483.49241351,287.24803674,287.24794405,288.76848287
+State,36,New York,90682,"Influenza vaccine, quadrivalent derived from recombinant dna",Y,O,66,141,141,141,74.160851064,62.980638298,62.980638298,63.501205674
+State,36,New York,90684,Pcv21 vaccine im,Y,O,248,946,946,946,360.12523256,319.43798097,319.43798097,319.45184989
+State,36,New York,90686,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",Y,O,1484,2601,2603,2603,47.497452939,21.591125624,21.591125624,21.834882828
+State,36,New York,90688,"Influenza vaccine, quadrivalent, 0.5 ml dosage",Y,O,341,663,663,663,53.331432881,20.2273454,20.2273454,20.399321267
+State,36,New York,90694,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",Y,O,2423,9297,9298,9298,105.51589051,75.071541192,75.071541192,75.222725317
+State,36,New York,90714,Diphtheria and tetanus vaccine (7 years or older),Y,O,710,1851,1853,1853,64.50279007,27.873513222,20.506632488,20.629811117
+State,36,New York,90715,"Diphtheria, tetanus, and acellular pertussis vaccine (7 years or older)",Y,O,2141,6361,6368,6367,86.045642274,37.763462626,27.65901853,27.788227073
+State,36,New York,90732,"Pneumococcal vaccine, 23-valent",Y,O,1730,6383,6419,6419,217.16457548,126.75929272,126.75929272,127.55417666
+State,36,New York,90739,"Hepatitis b vaccine (hepb), cpg-adjuvanted, adult dosage, 2 dose or 4 dose schedule, for intramuscular use",Y,O,306,663,978,978,366.21083845,158.63191207,158.63191207,159.39367076
+State,36,New York,90740,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage",Y,O,8,15,20,20,506.6625,148.134,148.134,148.134
+State,36,New York,90746,"Hepatitis b vaccine, adult dosage (3 dose schedule)",Y,O,1000,1486,2285,2285,162.59706783,67.745006565,67.745006565,68.145374179
+State,36,New York,90747,"Hepatitis b vaccine, dialysis or immunosuppressed patient dosage (4 dose schedule)",Y,O,6,16,25,25,384.48,135.6764,135.6764,135.6856
+State,36,New York,90756,"Influenza vaccine, quadrivalent derived from cell cultures",Y,O,203,447,450,450,61.009244444,30.917311111,30.917311111,31.082666667
+State,36,New York,90759,"Vaccine for hepatitis b (3 dose schedule) for injection into muscle, 10 mcg dosage",Y,O,13,18,24,24,137.56291667,69.32625,69.32625,69.32625
+State,36,New York,91304,"Severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5ml dosage, for intramuscular use",Y,O,688,2601,2777,2777,174.40016205,155.12747929,155.12747929,155.14027368
+State,36,New York,91318,Sarscov2 vac 3mcg trs-suc im,Y,O,7,42,42,42,83.022857143,54.83547619,54.83547619,54.83547619
+State,36,New York,91320,Sarscv2 vac 30mcg trs-suc im,Y,F,3,124,125,125,160.02976,128.48,128.48,128.48
+State,36,New York,91320,Sarscv2 vac 30mcg trs-suc im,Y,O,2884,196447,217082,217068,163.88788633,147.97813227,147.97813227,148.07415861
+State,36,New York,91321,Sarscov2 vac 25 mcg/.25ml im,Y,O,13,54,54,54,276.34981481,143.78814815,143.78814815,143.84259259
+State,36,New York,91322,Sarscov2 vac 50 mcg/0.5ml im,Y,F,2,135,136,136,276.22257353,158.42,158.42,158.42
+State,36,New York,91322,Sarscov2 vac 50 mcg/0.5ml im,Y,O,2532,188596,210265,210249,171.05578432,154.50480522,154.50480522,154.54493653
+State,36,New York,G0008,Administration of influenza virus vaccine,N,F,15,193,193,193,47.196528497,30.914974093,30.914974093,31.92
+State,36,New York,G0008,Administration of influenza virus vaccine,N,O,11882,629032,639066,639066,47.462096935,32.034376074,32.034376074,31.9026998
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,F,9,13,13,13,58.115384615,31.131538462,31.131538462,31.92
+State,36,New York,G0009,Administration of pneumococcal vaccine,N,O,7216,88804,89680,89680,58.214824487,33.382920384,33.382920384,31.91312946
+State,36,New York,G0010,Administration of hepatitis b vaccine,N,O,1181,2102,3208,3207,71.254759975,35.378101621,35.378101621,31.877886534
+State,36,New York,M0201,"Administration of pneumococcal, influenza, hepatitis b, and/or covid-19 vaccine inside a patient's home; reported only once per individual home per date of service when such vaccine administration(s) are performed at the patient's home",N,O,115,3287,3966,3965,96.754556228,39.85371407,39.85371407,37.78
